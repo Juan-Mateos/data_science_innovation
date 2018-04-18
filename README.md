@@ -23,3 +23,6 @@ This repo contains resources used in a session about Data Science for Innovation
 **Fortunato et al. (2018): 'Science of science'** [link](http://science.sciencemag.org/content/359/6379/eaao0185). New developments in the use of big datasets and network analysis and complexity research to understand how science evolves.
 
 **Mateos-Garcia and Stathoulopoulos (2017): 'An (increasingly) visible college: Mapping and strengthening research collaborations with open data'** [link](https://osf.io/preprints/socarxiv/3cu67). Application of text mining and data visualisation of research data to inform policy.
+
+**Djumalieva, Lime and Sleeman (2018): 'Classifying Occupations According to Their
+Skill Requirements in Job Advertisements' [link](https://www.escoe.ac.uk/wp-content/uploads/2018/03/ESCoE-DP-2018-04U.pdf). Uses new data (online job ads) and machine learning to classify jobs in a more granular and timely way.
